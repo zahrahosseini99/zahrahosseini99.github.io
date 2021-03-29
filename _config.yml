@@ -3,29 +3,28 @@
 # favicon: images/favicon.ico
 
 # Personal info
-name: Zahra Hosseini
+name: Shayan Shekarforoush
 title:
-email: hosseini99.zahra@gmail.com
-
+email: shekshaa.75@gmail.com
+# website: shekshaa.github.io
 
 # Social links
-twitter_username: chiiivirus
-github_username:  zahrahosseini99
-# stackoverflow_username: "00000001"
+# twitter_username: facespics
+researchgate_username: Shayan_Shekarforoush
+github_username:  shekshaa
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-#instagram_username: arhaz.exe
-linkedin_username: zahra-hosseini-174663174
-# xing_username: jekyll
+# instagram_username: chillwildlife
+googlescholar_username: ABanXIYAAAAJ
+linkedin_username: shayan-shekarforoush-597508136
 # pinterest_username: jekyll
-#youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
 
 # About Section
 # about_title: About Me
-about_profile_image: images/mypro.png
+about_profile_image: images/pf.jpg
 about_content: | # this will include new lines to allow paragraphs
   I am currently studying the final year of my bachelor’s degree in Computer Engineering at Sharif University of Technology, Iran.
   My research interests include **Deep Learning** in particular, and **Machine Learning** in general, with applications in **Computer Vision** and **Graph Learning**. 
@@ -50,17 +49,15 @@ projects_title: Publications
 more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in Science and Technology, some of my other hobbies are:
    - Rock Music
-   - Karate Shotokan WSKF
+   - Ultimate Frisbee
    - Basketball
-   - Reading about Technology , Cosmology , Physics and Astronomy
-   - Digital painting, Pencil painting
-
+   - Playing Tennis
 
 # Footer
 footer_show_references: true
 
 # Build settings
-remote_theme: zahrahosseini99/zahrahosseini99.github.io
+remote_theme: shekshaa/shekshaa.github.io
 
 sass:
   sass_dir: _sass
