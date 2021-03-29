@@ -27,7 +27,7 @@ linkedin_username: zahra-hosseini-174663174
 # about_title: About Me
 about_profile_image: images/mypro.png
 about_content: | # this will include new lines to allow paragraphs
-  I am currently studying the final year of my bachelor’s degree in Computer Engineering.
+I am currently studying the final year of my bachelor’s degree in Computer Engineering.
 
 #Projects Section
 projects_title: Publications
