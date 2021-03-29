@@ -23,12 +23,16 @@ linkedin_username: zahra-hosseini-174663174
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
+
 # About Section
 # about_title: About Me
-about_profile_image: images/mypro.png
+about_profile_image: images/myprp.png
 about_content: | # this will include new lines to allow paragraphs
-I am currently studying the final year of my bachelor’s degree in Computer Engineering.
-
+  I am currently studying the final year of my bachelor’s degree in Computer Engineering at Iran University of Science and Technology, Iran.
+  My research interests include **Deep Learning** in particular, and **Machine Learning** in general, with applications in **Computer Vision** and **Graph Learning**. 
+  I am intended to better understand these methods in a principled manner by investigating 
+  both their underlying mathematics and their practical implications in real life. 
+  
 #Projects Section
 projects_title: Publications
 
