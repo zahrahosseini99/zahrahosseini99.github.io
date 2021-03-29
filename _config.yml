@@ -25,9 +25,16 @@ linkedin_username: zahra-hosseini-174663174
 
 # About Section
 # about_title: About Me
-about_profile_image: images/mypro.JPG
+about_profile_image: images/mypro.png
 about_content: | # this will include new lines to allow paragraphs
-I am currently studying the final year of my bachelor’s degree in Computer Engineering at Iran University of Science and Technology, Iran.
+  I am currently studying the final year of my bachelor’s degree in Computer Engineering at Sharif University of Technology, Iran.
+  My research interests include **Deep Learning** in particular, and **Machine Learning** in general, with applications in **Computer Vision** and **Graph Learning**. 
+  I am intended to better understand these methods in a principled manner by investigating 
+  both their underlying mathematics and their practical implications in real life. 
+  Though the recent proposed techniques have demonstrated remarkable performance, 
+  major challenges in terms of understanding their underlying mathematical foundations remain unresolved. 
+  My research goal is to channel such better **theoretical and functional** understanding of 
+  these new methods towards better **practical solutions** for real life problems.
   
 # Projects Section
 projects_title: Publications
