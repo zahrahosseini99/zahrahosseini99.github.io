@@ -3,24 +3,25 @@
 # favicon: images/favicon.ico
 
 # Personal info
-name: Shayan Shekarforoush
+name: Zahra Hosseini
 title:
-email: shekshaa.75@gmail.com
-# website: shekshaa.github.io
+email: hosseini99.zahra@gmail.com
+
 
 # Social links
-# twitter_username: facespics
-researchgate_username: Shayan_Shekarforoush
-github_username:  shekshaa
+twitter_username: chiiivirus
+github_username:  zahrahosseini99
+# stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-# instagram_username: chillwildlife
-googlescholar_username: ABanXIYAAAAJ
-linkedin_username: shayan-shekarforoush-597508136
+#instagram_username: arhaz.exe
+linkedin_username: zahra-hosseini-174663174
+# xing_username: jekyll
 # pinterest_username: jekyll
-# youtube_username: globalmtb
+#youtube_username: globalmtb
 # googleplus_username: +jekyll
+# orcid_username: 0000-0000-0000-0000
 
 # About Section
 # about_title: About Me
@@ -49,15 +50,17 @@ projects_title: Publications
 more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in Science and Technology, some of my other hobbies are:
    - Rock Music
-   - Ultimate Frisbee
+   - Karate Shotokan WSKF
    - Basketball
-   - Playing Tennis
+   - Reading about Technology , Cosmology , Physics and Astronomy
+   - Digital painting, Pencil painting
+
 
 # Footer
 footer_show_references: true
 
 # Build settings
-remote_theme: shekshaa/shekshaa.github.io
+remote_theme: zahrahosseini99/zahrahosseini99.github.io
 
 sass:
   sass_dir: _sass
