@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Zahra Hosseini"
   avatar           : "profile.png"
-  bio              : "PhD Candidate at Rotman School of Management \n\n On the 2022-2023 academic job market \n"
+  bio              : "Master of Computer Science student researching \n\n computer vision, machine learning, \n\n and virtual reality"
   location         : "Toronto, ON"
   employer         : 
   pubmed           : 
-  googlescholar    : "https://scholar.google.ca/citations?hl=en&user=sGQigLsAAAAJ"
+  googlescholar    : 
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
