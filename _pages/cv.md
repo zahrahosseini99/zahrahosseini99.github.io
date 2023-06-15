@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-
+[Download CV](http://zahrahosseini99.github.io/files/CV.pdf)
 Education
 ======
 * Ph.D. in Operations Managemen, **Rotman School of Management, University of Toronto**, 2017-2023(expected)\
