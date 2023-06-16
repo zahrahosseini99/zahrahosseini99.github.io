@@ -18,11 +18,11 @@ redirect_from:
 Education
 ======
 * Master of Applied Science in Electrical and Computer Engineering, **Lassonde School of Engineering, York University**, 2022-2024(expected)\
-**Thesis**: Modeling Eye-Contact Dynamics: Unveiling Collaborative Gaze Behaviors in In-person, Online, and Virtual Meetings
-**Supervisors**: Niko Troje, Kosta Derpanis
+**Thesis**: Modeling Eye-Contact Dynamics: Unveiling Collaborative Gaze Behaviors in In-person, Online, and Virtual Meetings\
+**Supervisors**: [Dr. Niko Troje](https://www.biomotionlab.ca/niko-troje/), [Dr. Kosta Derpanis](https://csprofkgd.github.io/)
 * B.Sc. in Computer Engineering, **Iran University of Science and Technology**, 2017-2022\
 **Thesis**: Improving the Accuracy of Fake News Detection by Extracting Sub-Claims\
-**Advisor**: Dr. Alireza Hajji
+**Advisor**: [Dr. Sauleh Eetemadi](http://www.sauleh.ir/)
 
 
 
