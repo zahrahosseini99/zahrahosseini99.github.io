@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Academic Website"
+title                    : "About me"
 title_separator          : "-"
 name                     : &name "Zahra Hosseini"
 description              : &description "personal description"
