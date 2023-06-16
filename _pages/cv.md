@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: [Download CV](http://zahrahosseini99.github.io/files/CV.pdf)
+title: 
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -10,6 +10,8 @@ redirect_from:
 {% include base_path %}
 
 
+
+[Download CV](http://zahrahosseini99.github.io/files/CV.pdf)
 
 
 
